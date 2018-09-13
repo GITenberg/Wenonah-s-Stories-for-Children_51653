@@ -1,5 +1,8 @@
 _repo: Wenonah-s-Stories-for-Children_51653
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51653-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Burnham, Clara Louise
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '46508'
     url: http://www.gutenberg.org/2009/agents/46508
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51653#Wenonah-s-Stories-for-Children
 gutenberg_issued: '2016-04-04'
 gutenberg_type: Text
 identifiers:
