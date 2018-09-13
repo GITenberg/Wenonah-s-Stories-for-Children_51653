@@ -1,0 +1,31 @@
+_repo: Wenonah-s-Stories-for-Children_51653
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Burnham, Clara Louise
+    alias: Burnham, Clara Louise Root
+    birthdate: 1854
+    deathdate: 1927
+    gutenberg_agent_id: '1017'
+    url: http://www.gutenberg.org/2009/agents/1017
+  - agent_name: Proctor, Warren
+    gutenberg_agent_id: '46508'
+    url: http://www.gutenberg.org/2009/agents/46508
+description: ''
+gutenberg_issued: '2016-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Storytelling -- Juvenile fiction'
+- GITenberg
+title: Wenonah's Stories for Children
+url: http://www.gutenberg.org/ebooks/51653
